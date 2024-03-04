@@ -155,8 +155,8 @@ function withdrawMoneyPlatform(uint256 amount) external onlyOwner
 ```
 
 ### Frontend
-To use Monetized from the frontend (if you don't have access to the backend or have static content), you can use the available Javascript library.
+To use Monetized from the frontend (if you don't have access to the backend or have static content), you can use the available Javascript library: https://github.com/Monetizado/monetizadojs 
 
 ### ABI
-If you need the API, that is available in the ABI folder in this repo.
+If you need the ABI, that is available in the [ABI folder](./ABI) in this repo.
 
