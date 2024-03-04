@@ -4,6 +4,8 @@ Monetizado is an on-chain pay-per-view platform that allows you to monetize any 
 
 With Monetizado, you can implement it on news sites, social networks, exclusive content portals, and more. You could also use it to incentivize users to pay not to see advertising on your sites.
 
+Demo: https://monetizado.github.io/demosmonetizado/demo.html
+
 ## Features
 Monetizado allows you to:
 - Specify protected content with a specific amount that users must pay to access.
@@ -14,9 +16,22 @@ Monetizado allows you to:
 - Unprotect the content (if you want to release it to everyone for some time).
 - Withdraw the money collected for your content.
 
+## Use case
+You can use monetized to protect pages so that only subscribers can see it, as in:
+- News portals.
+- Videos.
+- Audios.
+- Files
+- Blogs.
+- Social networks.
+- And much more.
+
+**You can protect each page individually (each with its own ID, which you will see later in this document) and the user must pay to view each page, or all are classified under the same ID, so the user only pays once to view different pages. It's your decision as a content creator.**
+
 ## Limitations
 - For now, it only allows you to specify and pay with the native currency of the Blockchain network used (more tokens will be added for the new version).
 - You can implement Monetizado from the Smart contract or Javascript library (there is no website yet, it will be available soon).
+- In future versions, it will be enabled so that hosting (which stores the creators' pages) can charge a fee as well. Thus, the creator decides to implement his or her own content or use an external provider.
 
 ## Contract Ids
 Monetizado is implemented in different Blockchain networks, below is the Id of each contract that you can use:
