@@ -138,3 +138,10 @@ The owner of the contract can withdraw the money available as fees collected fro
 ```
 function withdrawMoneyPlatform(uint256 amount) external onlyOwner
 ```
+
+### Frontend
+To use Monetized from the frontend (if you don't have access to the backend or have static content), you can use the available Javascript library.
+
+### ABI
+If you need the API, that is available in the ABI folder in this repo.
+
