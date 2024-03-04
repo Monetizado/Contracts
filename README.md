@@ -6,6 +6,8 @@ With Monetizado, you can implement it on news sites, social networks, exclusive 
 
 Demo: https://monetizado.github.io/demosmonetizado/demo.html
 
+Javascript SDK: https://github.com/Monetizado/monetizadojs
+
 ## Features
 Monetizado allows you to:
 - Specify protected content with a specific amount that users must pay to access.
