@@ -44,6 +44,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | -------- | ------- |
 | opBnB Chain | [0x0702B45d590372b5456BeC39e13a46c00Fc8F733](https://testnet.opbnbscan.com/address/0x0702B45d590372b5456BeC39e13a46c00Fc8F733) |
 | BnB Chain | [0x13cbEaAaBcC8a126dF2f7b1aA955251574191231](https://testnet.bscscan.com/address/0x13cbEaAaBcC8a126dF2f7b1aA955251574191231) |
+| Base (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://base-sepolia.blockscout.com/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
 
 ## Use Monetizado
 Now we explain how to use Monetizado, both the smart contract (backend) and the Javascript library that you can implement on any Web platform in the frontend:
