@@ -42,11 +42,12 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 
 | Network | ContractId |
 | -------- | ------- |
-| opBnB Chain | [0x0702B45d590372b5456BeC39e13a46c00Fc8F733](https://testnet.opbnbscan.com/address/0x0702B45d590372b5456BeC39e13a46c00Fc8F733) |
-| BnB Chain | [0x13cbEaAaBcC8a126dF2f7b1aA955251574191231](https://testnet.bscscan.com/address/0x13cbEaAaBcC8a126dF2f7b1aA955251574191231) |
 | Arbitrum (Sepolia) | [0x3258814758AC48fE9c0869d43Df8F13aD0cB2A25](https://sepolia-explorer.arbitrum.io/address/0x3258814758AC48fE9c0869d43Df8F13aD0cB2A25) |
 | Base (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://base-sepolia.blockscout.com/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
+| Berachain | [0x4FCA17c99Cd6eA508AD64D75Daa6a5BeBfdd5916](https://artio.beratrail.io/address/0x4FCA17c99Cd6eA508AD64D75Daa6a5BeBfdd5916) |
+| BnB Chain | [0x13cbEaAaBcC8a126dF2f7b1aA955251574191231](https://testnet.bscscan.com/address/0x13cbEaAaBcC8a126dF2f7b1aA955251574191231) |
 | Botanix | [0xd0876600e82CCAa4aA0ab0Cd8bEa9c74F5b46De3](https://3xpl.com/botanix/address/0xd0876600e82CCAa4aA0ab0Cd8bEa9c74F5b46De3) |
+| opBnB Chain | [0x0702B45d590372b5456BeC39e13a46c00Fc8F733](https://testnet.opbnbscan.com/address/0x0702B45d590372b5456BeC39e13a46c00Fc8F733) |
 
 
 ## Use Monetizado
