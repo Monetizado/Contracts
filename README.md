@@ -4,7 +4,7 @@ Monetizado is an on-chain pay-per-view platform that allows you to monetize any 
 
 With Monetizado, you can implement it on news sites, social networks, exclusive content portals, and more. You could also use it to incentivize users to pay not to see advertising on your sites.
 
-Demo: https://monetizado.github.io/demosmonetizado/demo.html
+Demos: https://github.com/Monetizado/demosmonetizado/blob/main/README.md
 
 Javascript SDK: https://github.com/Monetizado/monetizadojs
 
