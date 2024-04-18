@@ -5,7 +5,7 @@ import "./MonetizadoLibrary.sol";
 
 contract Monetizadov1 {
     
-
+    // Struct with info about the protected content (for paying to access)
     struct ProtectedContentInfo {
         string name;
         uint256 accessCost;
