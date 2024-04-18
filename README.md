@@ -51,6 +51,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | Filecoin (Calibration) | [0x6388418CfEa921C323b91B173E10D7f8f1193680](https://calibration.filscan.io/en/address/0x6388418CfEa921C323b91B173E10D7f8f1193680/) |
 | Mode | [0xf0F90a236c860FB79DbBA4Ad9Dd62b714268BD21](https://sepolia.explorer.mode.network/address/0xf0F90a236c860FB79DbBA4Ad9Dd62b714268BD21) |
 | opBnB Chain | [0x0702B45d590372b5456BeC39e13a46c00Fc8F733](https://testnet.opbnbscan.com/address/0x0702B45d590372b5456BeC39e13a46c00Fc8F733) | 
+| Shardeum (Sphinx) | [0x4da05dda2f0586327e956548fd3e88a508ba2168](https://explorer-sphinx.shardeum.org/account/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
 
 
 ## Use Monetizado
