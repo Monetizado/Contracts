@@ -53,6 +53,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | Morph | [0x86f5304600627e7897AaAfAD39853e3D18E71B43](https://explorer-testnet.morphl2.io/address/0x86f5304600627e7897AaAfAD39853e3D18E71B43) |
 | opBnB Chain | [0x0702B45d590372b5456BeC39e13a46c00Fc8F733](https://testnet.opbnbscan.com/address/0x0702B45d590372b5456BeC39e13a46c00Fc8F733) | 
 | Shardeum (Sphinx) | [0x4da05dda2f0586327e956548fd3e88a508ba2168](https://explorer-sphinx.shardeum.org/account/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
+| Scroll (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://sepolia.scrollscan.com/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
 
 
 ## Use Monetizado
