@@ -8,6 +8,8 @@ Demos: https://github.com/Monetizado/demosmonetizado/blob/main/README.md
 
 Javascript SDK: https://github.com/Monetizado/monetizadojs
 
+Monetizado Proxy SDK (to allow monetize full pages using an intermediate page to pay and verify): https://github.com/Monetizado/proxyjs
+
 ## Features
 Monetizado allows you to:
 - Specify protected content with a specific amount that users must pay to access.
@@ -56,6 +58,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | opBnB Chain | [0x0702B45d590372b5456BeC39e13a46c00Fc8F733](https://testnet.opbnbscan.com/address/0x0702B45d590372b5456BeC39e13a46c00Fc8F733) | 
 | Scroll (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://sepolia.scrollscan.com/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
 | Shardeum (Sphinx) | [0x4da05dda2f0586327e956548fd3e88a508ba2168](https://explorer-sphinx.shardeum.org/account/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
+| Taraxa | [0x4da05dda2f0586327e956548fd3e88a508ba2168](https://testnet.explorer.taraxa.io/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
 
 
 ## Use Monetizado
