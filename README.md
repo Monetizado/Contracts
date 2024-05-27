@@ -10,6 +10,8 @@ Javascript SDK: https://github.com/Monetizado/monetizadojs
 
 Monetizado Proxy SDK (to allow monetize full pages using an intermediate page to pay and verify): https://github.com/Monetizado/proxyjs
 
+Monetizado Manage (to manage your content, to collect the money, and more): https://monetizado.github.io/manager/
+
 ## Features
 Monetizado allows you to:
 - Specify protected content with a specific amount that users must pay to access.
