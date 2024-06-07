@@ -58,6 +58,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | Mode | [0xf0F90a236c860FB79DbBA4Ad9Dd62b714268BD21](https://sepolia.explorer.mode.network/address/0xf0F90a236c860FB79DbBA4Ad9Dd62b714268BD21) |
 | Morph | [0x86f5304600627e7897AaAfAD39853e3D18E71B43](https://explorer-testnet.morphl2.io/address/0x86f5304600627e7897AaAfAD39853e3D18E71B43) |
 | opBnB Chain | [0x0702B45d590372b5456BeC39e13a46c00Fc8F733](https://testnet.opbnbscan.com/address/0x0702B45d590372b5456BeC39e13a46c00Fc8F733) | 
+| Rootstock | [0xd0876600e82CCAa4aA0ab0Cd8bEa9c74F5b46De3](https://explorer.testnet.rootstock.io/address/0xd0876600e82ccaa4aa0ab0cd8bea9c74f5b46de3) | 
 | Scroll (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://sepolia.scrollscan.com/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
 | Shardeum (Sphinx) | [0x4da05dda2f0586327e956548fd3e88a508ba2168](https://explorer-sphinx.shardeum.org/account/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
 | Taraxa | [0x4da05dda2f0586327e956548fd3e88a508ba2168](https://testnet.explorer.taraxa.io/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
