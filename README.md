@@ -64,6 +64,12 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | Taraxa | [0x4da05dda2f0586327e956548fd3e88a508ba2168](https://testnet.explorer.taraxa.io/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
 
 
+### Mainnet
+
+| Network | ContractId |
+| -------- | ------- |
+| BitTorrent | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://bttcscan.com/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) |
+
 ## Use Monetizado
 Now we explain how to use Monetizado, both the smart contract (backend) and the Javascript library that you can implement on any Web platform in the frontend:
 
