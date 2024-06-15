@@ -52,6 +52,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | BitTorrent | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://testscan.bt.io/#/contract/0x4da05dda2f0586327e956548fd3e88a508ba2168/transactions) |
 | BnB Chain | [0x13cbEaAaBcC8a126dF2f7b1aA955251574191231](https://testnet.bscscan.com/address/0x13cbEaAaBcC8a126dF2f7b1aA955251574191231) |
 | Botanix | [0xd0876600e82CCAa4aA0ab0Cd8bEa9c74F5b46De3](https://3xpl.com/botanix/address/0xd0876600e82CCAa4aA0ab0Cd8bEa9c74F5b46De3) |
+| Camp Network | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://explorerl2new-camp-network-4xje7wy105.t.conduit.xyz/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
 | Etherlink | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://testnet-explorer.etherlink.com/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
 | Filecoin (Calibration) | [0x6388418CfEa921C323b91B173E10D7f8f1193680](https://calibration.filscan.io/en/address/0x6388418CfEa921C323b91B173E10D7f8f1193680/) |
 | Lisk (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://sepolia-blockscout.lisk.com/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
