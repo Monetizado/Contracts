@@ -62,6 +62,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | Rootstock | [0xd0876600e82CCAa4aA0ab0Cd8bEa9c74F5b46De3](https://explorer.testnet.rootstock.io/address/0xd0876600e82ccaa4aa0ab0cd8bea9c74f5b46de3) | 
 | Scroll (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://sepolia.scrollscan.com/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
 | Shardeum (Sphinx) | [0x4da05dda2f0586327e956548fd3e88a508ba2168](https://explorer-sphinx.shardeum.org/account/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
+| Shido | [0x7D3789722F4d94A38852E794bf8C1f6cd53B47aB](https://testnet.shidoscan.com/address/0x7D3789722F4d94A38852E794bf8C1f6cd53B47aB) | 
 | Taraxa | [0x4da05dda2f0586327e956548fd3e88a508ba2168](https://testnet.explorer.taraxa.io/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
 
 
