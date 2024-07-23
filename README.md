@@ -69,6 +69,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | Shardeum (Sphinx) | [0x4da05dda2f0586327e956548fd3e88a508ba2168](https://explorer-sphinx.shardeum.org/account/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
 | Shido | [0x7D3789722F4d94A38852E794bf8C1f6cd53B47aB](https://testnet.shidoscan.com/address/0x7D3789722F4d94A38852E794bf8C1f6cd53B47aB) | 
 | Taraxa | [0x4da05dda2f0586327e956548fd3e88a508ba2168](https://testnet.explorer.taraxa.io/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) | 
+| Theta | [0x50f57850ccf3ebe7f19993facbb4caa4d10cc4ee](https://testnet-explorer.thetatoken.org/account/0x50f57850ccf3ebe7f19993facbb4caa4d10cc4ee) | 
 
 
 ### Mainnet
