@@ -59,6 +59,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | EduChain/OpenCampus (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://opencampus-codex.blockscout.com/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
 | Etherlink | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://testnet-explorer.etherlink.com/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
 | Filecoin (Calibration) | [0x6388418CfEa921C323b91B173E10D7f8f1193680](https://calibration.filscan.io/en/address/0x6388418CfEa921C323b91B173E10D7f8f1193680/) |
+| Fuse (Spark) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://explorer.fusespark.io/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
 | Linea (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://sepolia.lineascan.build/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) |
 | Lisk (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://sepolia-blockscout.lisk.com/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
 | Meter | [0x923720cA17B2e071542FE7419394EA717fdC1b98](https://scan-warringstakes.meter.io/address/0x923720ca17b2e071542fe7419394ea717fdc1b98?tab=0&p=1) |
