@@ -1,5 +1,7 @@
 # Monetizado
 
+Full demo: https://www.youtube.com/watch?v=FGGInRQgo78
+
 Monetizado is an on-chain pay-per-view platform that allows you to monetize any web page and static content (if you don't have access to the backend to make changes) through Web3.
 
 With Monetizado, you can implement it on news sites, social networks, exclusive content portals, and more. You could also use it to incentivize users to pay not to see advertising on your sites.
