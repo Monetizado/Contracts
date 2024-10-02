@@ -69,6 +69,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | Meter | [0x923720cA17B2e071542FE7419394EA717fdC1b98](https://scan-warringstakes.meter.io/address/0x923720ca17b2e071542fe7419394ea717fdc1b98?tab=0&p=1) |
 | Mode | [0xf0F90a236c860FB79DbBA4Ad9Dd62b714268BD21](https://sepolia.explorer.mode.network/address/0xf0F90a236c860FB79DbBA4Ad9Dd62b714268BD21) |
 | Morph | [0x86f5304600627e7897AaAfAD39853e3D18E71B43](https://explorer-testnet.morphl2.io/address/0x86f5304600627e7897AaAfAD39853e3D18E71B43) |
+| Neo X | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://neoxt4scan.ngd.network/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) |
 | opBnB Chain | [0x0702B45d590372b5456BeC39e13a46c00Fc8F733](https://testnet.opbnbscan.com/address/0x0702B45d590372b5456BeC39e13a46c00Fc8F733) | 
 | PWR Chain BTC+ | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://btcplusexplorer.pwrlabs.io/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) | 
 | Rootstock | [0xf0F90a236c860FB79DbBA4Ad9Dd62b714268BD21](https://explorer.testnet.rootstock.io/address/0xf0F90a236c860FB79DbBA4Ad9Dd62b714268BD21) | 
