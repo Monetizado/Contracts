@@ -68,6 +68,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | Lisk (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://sepolia-blockscout.lisk.com/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
 | Meter | [0x923720cA17B2e071542FE7419394EA717fdC1b98](https://scan-warringstakes.meter.io/address/0x923720ca17b2e071542fe7419394ea717fdc1b98?tab=0&p=1) |
 | Mode | [0xf0F90a236c860FB79DbBA4Ad9Dd62b714268BD21](https://sepolia.explorer.mode.network/address/0xf0F90a236c860FB79DbBA4Ad9Dd62b714268BD21) |
+| Moonbeam (Moonbase Alpha) | [0x5e400dc6b6c816e4af77b2286ae5f114d8429005](https://moonbase.moonscan.io/address/0x5e400dc6b6c816e4af77b2286ae5f114d8429005) |
 | Morph | [0x86f5304600627e7897AaAfAD39853e3D18E71B43](https://explorer-testnet.morphl2.io/address/0x86f5304600627e7897AaAfAD39853e3D18E71B43) |
 | Neo X | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://neoxt4scan.ngd.network/address/0x4da05dda2f0586327e956548fd3e88a508ba2168) |
 | opBnB Chain | [0x0702B45d590372b5456BeC39e13a46c00Fc8F733](https://testnet.opbnbscan.com/address/0x0702B45d590372b5456BeC39e13a46c00Fc8F733) | 
