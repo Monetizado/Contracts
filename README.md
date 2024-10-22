@@ -49,6 +49,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 | Network | ContractId |
 | -------- | ------- |
 | Arbitrum (Sepolia) | [0x3258814758AC48fE9c0869d43Df8F13aD0cB2A25](https://sepolia-explorer.arbitrum.io/address/0x3258814758AC48fE9c0869d43Df8F13aD0cB2A25) |
+| Aurora | [0xF0E21Cc4EA162a96e6B52685fb6dFa86E4Ae9fb6](https://explorer.aurora.dev/address/0xF0E21Cc4EA162a96e6B52685fb6dFa86E4Ae9fb6) |
 | Base (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://base-sepolia.blockscout.com/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
 | Berachain | [0x4FCA17c99Cd6eA508AD64D75Daa6a5BeBfdd5916](https://artio.beratrail.io/address/0x4FCA17c99Cd6eA508AD64D75Daa6a5BeBfdd5916) |
 | BitTorrent | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://testscan.bt.io/#/contract/0x4da05dda2f0586327e956548fd3e88a508ba2168/transactions) |
