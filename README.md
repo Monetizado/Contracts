@@ -48,6 +48,7 @@ Monetizado is implemented in different Blockchain networks, below is the Id of e
 
 | Network | ContractId |
 | -------- | ------- |
+| AIA | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://testnet.aiascan.com/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
 | Arbitrum (Sepolia) | [0x3258814758AC48fE9c0869d43Df8F13aD0cB2A25](https://sepolia-explorer.arbitrum.io/address/0x3258814758AC48fE9c0869d43Df8F13aD0cB2A25) |
 | Aurora | [0xF0E21Cc4EA162a96e6B52685fb6dFa86E4Ae9fb6](https://explorer.aurora.dev/address/0xF0E21Cc4EA162a96e6B52685fb6dFa86E4Ae9fb6) |
 | Base (Sepolia) | [0x4dA05ddA2F0586327E956548fd3E88a508ba2168](https://base-sepolia.blockscout.com/address/0x4dA05ddA2F0586327E956548fd3E88a508ba2168) |
